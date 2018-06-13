@@ -1,0 +1,10 @@
+{
+  "name": "rjsc",
+  "version": "0.0.1",
+  "description": "React.js CLI",
+  "main": "index.js",
+  "repository": "https://github.com/janeczkojan/rjsc.git",
+  "author": "Jan Janeczko <janeczko.jan@hotmail.com>",
+  "license": "MIT",
+  "private": true
+}
