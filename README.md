@@ -1,2 +1,2 @@
-# rjsc
+# RJSC
 React.js CLI
